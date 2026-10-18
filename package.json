@@ -5,7 +5,7 @@
   "description": "Навчальний модуль з рефакторингу та аналізу Orders API",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node server.js",
     "test": "node --test test/orders-api.test.js",
     "load": "node scripts/load-test.js"
   },
